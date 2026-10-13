@@ -1,6 +1,6 @@
 # Hi, I'm Jirapath 👋
 
-### Senior Software Engineer · Java & Kotlin · Backend Systems
+### Senior Software Engineer · Java · Backend Systems
 
 Backend engineer with 4+ years of experience building Spring Boot microservices, REST APIs, batch processing, and CI/CD pipelines for banking and enterprise platforms. I focus on reliable services, performance, and maintainable code.
 
