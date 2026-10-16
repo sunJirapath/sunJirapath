@@ -45,6 +45,11 @@ Provider-backed Thai transfer slip verification with EasySlip and SlipOK, QR ima
 
 **Kotlin · Spring Boot · Redis · ZXing**
 
+### [dependency-analyze-kit](https://github.com/sunJirapath/dependency-analyze-kit)
+Maven plugin that finds unused dependencies in Spring Boot projects without the starter false positives of `mvn dependency:analyze`, using bytecode, the dependency graph, and runtime evidence from Spring's condition report and bean graph.
+
+**Java · Maven · Spring Boot** · [Maven Central ↗](https://central.sonatype.com/artifact/io.github.sunjirapath/dependency-analyze-kit-maven-plugin)
+
 ### [thai-auto-data](https://github.com/sunJirapath/thai-auto-data)
 Open datasets and an interactive dashboard for Thai vehicle registrations and official vehicle prices, with traceable sources and downloadable CSVs.
 
