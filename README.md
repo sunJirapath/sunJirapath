@@ -1,71 +1,69 @@
-# Hi, I'm Jirapath 👋
+<p align="left">
+  <img src="hero.svg" alt="Jirapath (Sun) Charoenpanyapratch. Building reliable backend systems for banking and enterprise platforms." width="100%">
+</p>
 
-### Senior Software Engineer · Java · Backend Systems
+I have 4+ years of experience building Java Spring Boot microservices, REST APIs, batch processing and CI/CD pipelines. I currently deliver Mobile Banking features at TMBThanachart Bank.
 
-Backend engineer with 5+ years of experience building Spring Boot microservices, REST APIs, batch processing, and CI/CD pipelines for banking and enterprise platforms. I focus on reliable services, performance, and maintainable code.
-
-[Portfolio & CV](https://sunjirapath.github.io/) · [LinkedIn](https://www.linkedin.com/in/jirapath-cha/) · [Open-source projects](https://github.com/sunJirapath?tab=repositories) · [Thai automotive dashboard](https://sunjirapath.github.io/thai-auto-data/)
+[Portfolio ↗](https://sunjirapath.github.io/) · [Download CV ↗](https://sunjirapath.github.io/cv.pdf) · [LinkedIn ↗](https://www.linkedin.com/in/jirapath-cha) · [sun.jrp@gmail.com](mailto:sun.jrp@gmail.com)
 
 ---
 
-## About me
+### ● SELECTED IMPACT
 
-- Currently a **Senior Associate Software Engineer at TMBThanachart Bank (ttb)**, working on mobile banking backend services.
-- Previously worked at **Krungthai Bank** and **Sirisoft**, with an internship at **Krungthai Panich Insurance**.
-- My work spans API integration, performance tuning, framework migrations, and developer automation.
-- I build open-source JVM libraries for Thai payments and tools that make public data easier to use.
-- **B.Eng. in Computer Engineering**, King Mongkut's University of Technology North Bangkok.
+|  **70%** | **40** | **10+** | **1M+** |
+| :-- | :-- | :-- | :-- |
+| Faster API responses on large-payload requests | Microservices migrated, Spring Boot 3 → 4 | Banking service teams integrated | Users on the platform I build for |
+| <sub>I optimized these endpoints on the ttb Mobile Banking backend.</sub> | <sub>I led the migration and kept compatibility with minimal production risk.</sub> | <sub>At Krungthai Bank, I designed and integrated APIs for cross-department data exchange.</sub> | <sub>The platform's scale, not my own.</sub> |
 
-## Tech stack
+---
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-</p>
+### ● SELECTED WORK
 
-| Area | Technologies |
-| --- | --- |
-| Languages & backend | Java, Kotlin, Go, Python, Spring Boot, REST APIs, microservices |
-| Databases & caching | SQL Server, PostgreSQL, MongoDB, Redis, Elasticsearch |
-| Cloud & delivery | AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Git |
-| Messaging & integration | Apache Kafka, API integration, batch processing |
+- **Graph-RAG knowledge base for AI agents.** 1,000+ specifications across 30+ microservices, structured so AI coding assistants answer only from cited evidence.
+- **Release automation for 30+ microservices.** A Python toolkit for bulk updates, builds, Kubernetes deployments and daily cut-off reports, plus a CI stage benchmark.
+- **Spring Boot 3 → 4 migration.** Led the move of 40 production microservices with minimal risk and downtime.
 
-## Selected projects
+[Read the case studies ↗](https://sunjirapath.github.io/#work)
 
-### [promptparse-jvm](https://github.com/sunJirapath/promptparse-jvm)
-Generate, parse, and validate PromptPay and Thai QR payloads on the JVM. Java-friendly APIs with Android support.
+---
 
-**Java · Kotlin · Gradle**
+### ● OPEN SOURCE
 
-### [slipverify-jvm](https://github.com/sunJirapath/slipverify-jvm)
-Provider-backed Thai transfer slip verification with EasySlip and SlipOK, QR image extraction, business rules, and duplicate detection. Includes a Spring Boot starter.
+**[promptparse-jvm ↗](https://github.com/sunJirapath/promptparse-jvm)** · `Kotlin` `Java` `Maven Central`<br>
+Zero-dependency library to generate, parse and validate Thai PromptPay and EMVCo QR payloads.
 
-**Kotlin · Spring Boot · Redis · ZXing**
+**[slipverify-jvm ↗](https://github.com/sunJirapath/slipverify-jvm)** · `Kotlin` `Spring Boot` `Maven Central`<br>
+Verifies Thai bank-transfer slips with duplicate detection and typed results. Includes a Spring Boot 4 starter.
 
-### [dependency-analyze-kit](https://github.com/sunJirapath/dependency-analyze-kit)
-Maven plugin that finds unused dependencies in Spring Boot projects without the starter false positives of `mvn dependency:analyze`, using bytecode, the dependency graph, and runtime evidence from Spring's condition report and bean graph.
+**[dependency-analyze-kit ↗](https://github.com/sunJirapath/dependency-analyze-kit)** · `Java` `Maven`<br>
+Maven plugin that finds unused dependencies in Spring Boot projects using Spring's condition report.
 
-**Java · Maven · Spring Boot** · [Maven Central ↗](https://central.sonatype.com/artifact/io.github.sunjirapath/dependency-analyze-kit-maven-plugin)
+**[thai-auto-data ↗](https://github.com/sunJirapath/thai-auto-data)** · `Open data` `CC BY 4.0` · [Live dashboard ↗](https://sunjirapath.github.io/thai-auto-data/)<br>
+Monthly new-car registrations in Thailand since 2021, by brand, model, province and fuel type.
 
-### [thai-auto-data](https://github.com/sunJirapath/thai-auto-data)
-Open datasets and an interactive dashboard for Thai vehicle registrations and official vehicle prices, with traceable sources and downloadable CSVs.
+---
 
-**JavaScript · Open Data · GitHub Pages** · [Live dashboard ↗](https://sunjirapath.github.io/thai-auto-data/)
+### ● EXPERIENCE
 
-## Experience
+| | |
+| :-- | :-- |
+| `Nov 2024 – Present` | **Senior Associate Software Engineer**, TMBThanachart Bank |
+| `Dec 2022 – Nov 2024` | **Java Software Engineer**, Krungthai Bank |
+| `May 2022 – Nov 2022` | **Software Developer**, Sirisoft |
+| `Jun 2021 – Apr 2022` | **Full-stack Developer (Intern)**, Krungthai Panich Insurance |
+| `2018 – 2022` | **B.Eng. Computer Engineering**, KMUTNB |
 
-| Role | Organization | Period |
-| --- | --- | --- |
-| Senior Associate Software Engineer | TMBThanachart Bank (ttb) | Nov 2024–Present |
-| Java Software Engineer | Krungthai Bank | Dec 2022–Nov 2024 |
-| Software Developer | Sirisoft | May 2022–Nov 2022 |
-| Full-stack Developer Intern | Krungthai Panich Insurance | Jun 2021–Apr 2022 |
+---
 
-## How I work
+### ● EXPERTISE
 
-I prefer simple designs, explicit validation, and clear failure states. Tests, CI, documentation, and runnable examples are part of the work.
+| Backend | Data | Platform |
+| :-- | :-- | :-- |
+| Java, Kotlin, Spring Boot | PostgreSQL, SQL Server | Docker, Kubernetes |
+| REST API design, microservices | MongoDB, Redis, Elasticsearch | Azure (AKS), AWS, GCP |
+| Kafka, Go batch processing | Liquibase migrations | Jenkins, GitLab, SonarQube |
+| Performance tuning, caching | Python, Graph-RAG, LLM agents | Git, migration planning |
 
-For professional connections, find me on [LinkedIn](https://www.linkedin.com/in/jirapath-cha/). For project questions or contributions, use the relevant repository's issues and pull requests.
+---
+
+I'm open to senior backend roles and interesting engineering problems. Email is the fastest way to reach me.
