@@ -35,8 +35,20 @@ Zero-dependency library to generate, parse and validate Thai PromptPay and EMVCo
 **[slipverify-jvm ↗](https://github.com/sunJirapath/slipverify-jvm)** · `Kotlin` `Spring Boot` `Maven Central`<br>
 Verifies Thai bank-transfer slips with duplicate detection and typed results. Includes a Spring Boot 4 starter.
 
+**[boot-context-diff ↗](https://github.com/sunJirapath/boot-context-diff)** · `Java` `Spring Boot`<br>
+Fails the build when a Spring Boot ApplicationContext changes unexpectedly, using a deterministic JSON snapshot of beans and auto-configuration outcomes.
+
+**[boot-bom-guard ↗](https://github.com/sunJirapath/boot-bom-guard)** · `Java` `Maven` `Gradle`<br>
+Spring Boot 4 BOM drift checks for Maven and Gradle, using native dependency resolution.
+
+**[spring-service-graph ↗](https://github.com/sunJirapath/spring-service-graph)** · `Java` `Spring Boot` `Kafka`<br>
+Static cross-service dependency graph for Spring Boot microservice fleets: endpoints, HTTP calls, Kafka topics and tables, with file:line evidence.
+
 **[dependency-analyze-kit ↗](https://github.com/sunJirapath/dependency-analyze-kit)** · `Java` `Maven`<br>
 Maven plugin that finds unused dependencies in Spring Boot projects using Spring's condition report.
+
+**[Initium ↗](https://github.com/sunJirapath/Initium)** · `Python`<br>
+Stdlib-only Python harness for agent-driven projects: init, routing, sized context, a linked Markdown second brain and publish preflight.
 
 **[thai-auto-data ↗](https://github.com/sunJirapath/thai-auto-data)** · `Open data` `CC BY 4.0` · [Live dashboard ↗](https://sunjirapath.github.io/thai-auto-data/)<br>
 Monthly new-car registrations in Thailand since 2021, by brand, model, province and fuel type.
