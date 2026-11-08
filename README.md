@@ -75,4 +75,11 @@ Monthly new-car registrations in Thailand since 2021, by brand, model, province 
 
 ---
 
+### ● CERTIFICATIONS
+
+[![Claude Code 101](https://img.shields.io/badge/Claude_Academy-Claude_Code_101-D97757)](https://academy.claude.com/badges/caddd46c-2354-4cf3-a871-8c65c72f3172)
+[![Claude Code in action](https://img.shields.io/badge/Claude_Academy-Claude_Code_in_action-D97757)](https://academy.claude.com/badges/b6ddc845-2acc-4da1-8a7e-4d52b1f7e490)
+
+---
+
 I'm open to senior backend roles and interesting engineering problems. Email is the fastest way to reach me.
